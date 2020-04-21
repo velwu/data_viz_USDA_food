@@ -5,7 +5,6 @@ dependencies:
   - pandas
   - matplotlib
   - numpy
-  - PIL
   - bqplot
   - traitlets
   - ipywidgets

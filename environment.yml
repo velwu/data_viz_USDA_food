@@ -10,3 +10,8 @@ dependencies:
   - ipywidgets
   - plotly
   - scipy
+  - nltk
+  - string
+  - itertools
+  - wordcloud 
+  - operator

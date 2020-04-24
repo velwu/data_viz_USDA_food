@@ -11,7 +11,4 @@ dependencies:
   - plotly
   - scipy
   - nltk
-  - string
-  - itertools
   - wordcloud 
-  - operator
